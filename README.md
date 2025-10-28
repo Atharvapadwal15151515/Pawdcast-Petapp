@@ -1,4 +1,4 @@
-# 🐾 Pawdcast – The All-in-One Pet Care Web App
+#  Pawdcast – The All-in-One Pet Care Web App
 
 ##  Overview
 **Pawdcast** is a full-stack Java-based web application built to simplify and digitalize pet care.  
