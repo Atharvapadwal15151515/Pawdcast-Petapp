@@ -49,4 +49,3 @@ Built with **Java Spring Boot**, **MySQL**, and a **modern frontend (HTML, CSS, 
 
 ---
 
-## 🏗️ Architecture
